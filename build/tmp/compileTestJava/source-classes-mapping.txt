@@ -1,0 +1,12 @@
+pageObjects/HomePage.java
+ pageObjects.HomePage
+runner/TestRunner.java
+ runner.TestRunner
+models/User.java
+ models.User
+pageObjects/LoginPage.java
+ pageObjects.LoginPage
+pageObjects/RegistrationPage.java
+ pageObjects.RegistrationPage
+stepsDefenitions/RegistrationSteps.java
+ stepsDefenitions.RegistrationSteps
